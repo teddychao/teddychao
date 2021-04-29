@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @teddychao
-- 👀 I’m interested in translational neuroimaging.
-- 🌱 I’m currently learning cancer science and magnetic resonance spectroscopy.
+- 👀 I’m interested in translational neuroimaging and signal processing.
+- 🌱 I’m a PhD student at Children's Brain Tumour Research Team, University of Birmingham.
+- 👨🏻‍💻 I'm helping develop and maintain PsPM at Bach Laboratory, University College London.
 
 <!---
 teddychao/teddychao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
