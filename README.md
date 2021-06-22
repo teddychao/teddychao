@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teddychao
 - 👀 I’m interested in neuroimaging and typography.
-- 🖥 I’m helping to develop and maintain [PsPM](https://bachlab.github.io/PsPM/).
+- 🖥 I’m currently developing [PsPM](https://bachlab.github.io/PsPM/) with the team.
 
 <!---
 teddychao/teddychao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
